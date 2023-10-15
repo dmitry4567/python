@@ -1,5 +1,3 @@
-import re
-
 class Tokenizer:
     def split_word(self, text):
         tokens = []
