@@ -1,3 +1,4 @@
+# Задание 2
 import scipy.stats as stats
 
 bullets_before = [5, 10, 4, 8, 7, 6, 9, 3, 12, 11, 7, 5,
